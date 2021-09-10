@@ -1,6 +1,7 @@
 #pragma once
 #include<iostream>
 #include<string>
+#include"SolverFunctions.h"
 
 int board[9][9];
 int get_Board() {
